@@ -1,0 +1,104 @@
+body {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(Background.jpg);
+}
+
+.SMP {
+    width: 100px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.JUDUL {
+    text-align: center;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30;
+    margin-top: 60px;
+}
+
+.PEMBUKA {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3;
+    margin-top: 60px;
+}
+
+.M1, .IM1, .IM12, .M2, .IM2, .IM22, .S1, .S2, .S3, .IS1, .IS2, .IS3, .V1 {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(7, 132, 0);
+}
+
+.IM1 {
+    color: rgb(124, 114, 0);
+    text-indent: 50px;
+}
+
+.IM12 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.IM2 {
+    color: rgb(124, 114, 0);
+    text-indent: 50px;
+    font-size: 4;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.IM22 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4;
+    text-align: justify;
+}
+
+.GAMBAR1 {
+    margin-top: 100px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block ;
+    border-radius: 10px;
+
+}
+
+.S1 {
+    color: white;
+    background-color: rgb(124, 114, 0);
+}
+
+.S2 {
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 92, 121);
+}
+
+.S3 {
+    color: rgb(255, 251, 0);
+    background-color: rgb(0, 0, 0)
+}
+
+.IS1, .IS2, .IS3 {
+    color: black;
+    text-indent: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.IS1 {
+    text-align: justify;
+}
+
+.IS2 {
+    text-align: right;
+}
+
+.IS3 {
+    text-align: left;
+}
